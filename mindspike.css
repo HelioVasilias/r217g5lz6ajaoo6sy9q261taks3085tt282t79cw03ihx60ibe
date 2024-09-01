@@ -17,46 +17,46 @@
 
 
 :root {
-	--mindspike-chat-color0: aqua;
-	--mindspike-chat-color1: yellow;
-	--mindspike-chat-input-color: magenta;
-	--mindspike-left-sidebar-color0: gray;
-	--mindspike-left-sidebar-color1: aqua;
-	--mindspike-headerbar-color: aqua;
-	--mindspike-emoji-picker-color0: yellow;
-	--mindspike-emoji-picker-color1: aqua;
-	--mindspike-profile-color: yellow;
-	--mindspike-profile-full-color: yellow;
+	mindspike-chat-color0: aqua;
+	mindspike-chat-color1: yellow;
+	mindspike-chat-input-color: magenta;
+	mindspike-left-sidebar-color0: gray;
+	mindspike-left-sidebar-color1: aqua;
+	mindspike-headerbar-color: aqua;
+	mindspike-emoji-picker-color0: yellow;
+	mindspike-emoji-picker-color1: aqua;
+	mindspike-profile-color: yellow;
+	mindspike-profile-full-color: yellow;
 }
 
 
 * {
-    --background-primary: black !important;
-    --background-secondary: black !important;
-    --background-secondary-alt: black !important;
-    --background-tertiary: black !important;
-    --background-floating: black !important;
-    --channeltextarea-background: black !important;
-    --background-modifier-selected: black !important;
-	--background-modifier-hover: black !important;
-	--background-modifier-active: black !important;
-	--modal-background: black !important;
-	--home-background: black !important;
-	--custom-category-channel-space-before-category: 2px !important;
-	--button-secondary-background: yellow !important;
-	--button-secondary-background-hover: aqua !important;
-	--brand-experiment: yellow !important;
-	--button-positive-background: yellow !important;
-	--button-positive-background-hover: aqua !important;
-	--modal-footer-background: black !important;
-	--button-danger-background: red !important;
-	--button-danger-background-hover: aqua !important;
-	--button-outline-danger-border: red !important;
-	--button-outline-danger-border-hover: red !important;
-	--button-outline-danger-background-hover: red !important;
-	--button-outline-danger-text: red !important;
-	--button-outline-danger-text-hover: black !important;
-	--profile-gradient-button-color: yellow;
+    background-primary: black !important;
+    background-secondary: black !important;
+    background-secondary-alt: black !important;
+    background-tertiary: black !important;
+    background-floating: black !important;
+    channeltextarea-background: black !important;
+    background-modifier-selected: black !important;
+	background-modifier-hover: black !important;
+	background-modifier-active: black !important;
+	modal-background: black !important;
+	home-background: black !important;
+	custom-category-channel-space-before-category: 2px !important;
+	button-secondary-background: yellow !important;
+	button-secondary-background-hover: aqua !important;
+	brand-experiment: yellow !important;
+	button-positive-background: yellow !important;
+	button-positive-background-hover: aqua !important;
+	modal-footer-background: black !important;
+	button-danger-background: red !important;
+	button-danger-background-hover: aqua !important;
+	button-outline-danger-border: red !important;
+	button-outline-danger-border-hover: red !important;
+	button-outline-danger-background-hover: red !important;
+	button-outline-danger-text: red !important;
+	button-outline-danger-text-hover: black !important;
+	profile-gradient-button-color: yellow;
 }
 
 
